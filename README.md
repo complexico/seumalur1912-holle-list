@@ -30,16 +30,16 @@ of this dataset ([Rajeg et al.,
 interactive master Holle List ([Rajeg,
 2023](#ref-rajegDigitisedSearchableHolle2023b)):
 
-> Rajeg, G. P. W. (2023). Digitised, searchable Holle List in Stokhof
-> (1980) (University of Oxford; Version 1.3.1) \[R\]. University of
+> Rajeg, G. P. W. (2023). *Digitised, searchable Holle List in Stokhof
+> (1980)* (University of Oxford; Version 1.3.1) \[R\]. University of
 > Oxford’s Sustainable Digital Scholarship.
 > <https://doi.org/10.25446/oxford.23205173>
 
 > Rajeg, G. P. W., Pramadicha, P. R. K., Sanjaya, M. S. K., Maheswari,
-> L. P., & Dewijayanthi, N. D. P. (2025). Digitised wordlist for
+> L. P., & Dewijayanthi, N. D. P. (2025). *Digitised wordlist for
 > Seumalur (NBG 1912) derived from Stokhof and Almanar’s ‘Holle lists:
 > Vocabularies in languages of Indonesia, Vol. 10/3: Islands off the
-> west coast of Sumatra’ from 1987 (Version 1.0.0) \[Dataset\].
+> west coast of Sumatra’ from 1987* (Version 1.0.0) \[Dataset\].
 > <https://github.com/Holle-List/seumalur1912-holle-list> (Original work
 > published 2025)
 
