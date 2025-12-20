@@ -29,6 +29,10 @@ authors:
   - given-names: Nyoman Dinda Prapti
     family-names: Dewijayanthi
     affiliation: Udayana University
+identifiers:
+  - type: doi
+    value: 10.25446/oxford.30924731
+    description: The DOI for all versions
 url: 'https://github.com/Holle-List/seumalur1912-holle-list'
 keywords:
   - Holle List
