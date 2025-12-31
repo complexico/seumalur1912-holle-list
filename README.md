@@ -12,7 +12,8 @@ Dewijayanthi
 
 <!-- badges: start -->
 
-<a href="https://example.com">This work</a> © 2025 is licensed under
+<a href="http://dx.doi.org/10.25446/oxford.30924731">This work</a> ©
+2025 is licensed under
 <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative
 Commons Attribution-ShareAlike 4.0 International</a>
 
